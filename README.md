@@ -29,6 +29,7 @@ Instructions for use:
 
 This script must be placed in the folder with .png files containing QR codes. The script will go through all .png files located inside the folder.
 
+
 Parameters and arguments:
 
 --help - list all arguments
