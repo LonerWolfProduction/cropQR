@@ -5,15 +5,15 @@ cropQR - will be useful if you have a large number of QR codes that need to be q
 
 This script has several dependencies:
 1. pyzbar
-install:
-sudo apt-get install libzbar0
-pip install pyzbar
+1.1 install:
+1.2 sudo apt-get install libzbar0
+1.3 pip install pyzbar
    
-2. PIL
+3. PIL
 install:
 pip install pillow
    
-3. glob
+4. glob
 install:
 pip3 install glob2
 
