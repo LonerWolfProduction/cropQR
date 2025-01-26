@@ -4,18 +4,18 @@ cropQR - will be useful if you have a large number of QR codes that need to be q
 ![base](https://github.com/user-attachments/assets/a8c81cff-ad69-41fd-81a9-abfd9409cb4c)
 
 This script has several dependencies:
-1. pyzbar\n
+1. pyzbar
 
    install:
    sudo apt-get install libzbar0
    pip install pyzbar
    
-3. PIL\n
+3. PIL
 
    install:
    pip install pillow
   
-5. glob\n
+5. glob
 
    install:
    pip3 install glob2
