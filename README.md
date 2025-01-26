@@ -11,6 +11,8 @@ This script has several dependencies:
    sudo apt-get install libzbar0
 
    pip install pyzbar
+
+   pip install pyqrcode
    
 3. PIL
 
