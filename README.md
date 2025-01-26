@@ -1,6 +1,7 @@
 # cropQR
 cropQR - will be useful if you have a large number of QR codes that need to be quickly decoded into text. This script only works with .png files.
 
+![base](https://github.com/user-attachments/assets/a8c81cff-ad69-41fd-81a9-abfd9409cb4c)
 
 This script has several dependencies:
 1. pyzbar
