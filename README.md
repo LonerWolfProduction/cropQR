@@ -7,17 +7,21 @@ This script has several dependencies:
 1. pyzbar
 
    install:
+
    sudo apt-get install libzbar0
+
    pip install pyzbar
    
 3. PIL
 
    install:
+
    pip install pillow
   
 5. glob
 
    install:
+
    pip3 install glob2
 
 
