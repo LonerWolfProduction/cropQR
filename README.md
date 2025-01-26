@@ -31,13 +31,13 @@ Parameters and arguments:
 
 1. pyzbar
 install:
-1.2 sudo apt-get install libzbar0
-1.3 pip install pyzbar
+sudo apt-get install libzbar0;
+pip install pyzbar;
    
 3. PIL
 install:
-pip install pillow
+pip install pillow;
    
 4. glob
 install:
-pip3 install glob2
+pip3 install glob2;
