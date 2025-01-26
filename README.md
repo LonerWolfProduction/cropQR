@@ -26,9 +26,13 @@ This script has several dependencies:
 
 
 Instructions for use:
+
 This script must be placed in the folder with .png files containing QR codes. The script will go through all .png files located inside the folder.
 
 Parameters and arguments:
+
 --help - list all arguments
+
 --here - start decoding without specifying a path
+
 --silent - decode decoding is not accompanied by output to the terminal
